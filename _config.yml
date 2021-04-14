@@ -83,3 +83,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://scratch-77484.netlify.app'
