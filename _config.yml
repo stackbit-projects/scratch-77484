@@ -58,7 +58,7 @@ footer:
       style: icon
       icon_class: dev
       new_window: true
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscr
   subscribe_content: >-
     Subscribe to my email newsletter to receive useful articles and special
