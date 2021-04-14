@@ -1,6 +1,6 @@
 ---
 title: What Is Photography and What It Means To M
-subtitle: A intresting tale about Photography and m
+subtitle: 'A intresting tale about Photography and '
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
